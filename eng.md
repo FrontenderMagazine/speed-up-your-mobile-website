@@ -4,10 +4,10 @@ Performance is important on all sites, but on a mobile device, it is even more
 important. They have slower connections and less processing power than your
 computer or laptop. This already means a longer wait to see and interact with
 the content of a website. To further my point on web performance, check out this
-article on how it could affect your [bottom line](http://blog.kissmetrics.com
-/loading-time/). Below I go through a few methods to speed up your mobile site
-and cut off some time from loading. Before you go ahead with any of these
-methods, check out your current page load time at [pingdom][1].
+article on how it could affect your [bottom line][0]. Below I go through a few 
+methods to speed up your mobile site and cut off some time from loading. Before 
+you go ahead with any of these methods, check out your current page load time 
+at [pingdom][1].
 
 *Just note that these methods are not all specific to mobile, but can be used 
 for your full website as well as the mobile version.*
@@ -145,6 +145,7 @@ I hope these tips will help you decrease the load and rendering time of your
 website. I use these tips myself every time I develop. Make sure to check the
 increase in load time with [pingdom][1] after you are all finished up.
 
+[0]: http://blog.kissmetrics.com/loading-time/
 [1]: http://tools.pingdom.com/fpt/
 [2]: http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web/
 [3]: http://www.webdesignerdepot.com/2012/03/10-of-the-coolest-css-css3-effects-10-of-the-coolest-css-css3-effects-10-of-the-coolest-css-and-css3-effects/
